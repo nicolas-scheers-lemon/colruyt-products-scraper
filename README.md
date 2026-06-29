@@ -33,4 +33,4 @@ Here are a couple ways you can try to circumvent the anti bot measurements:
  
 > [!NOTE]  
 > All this is considering you are sending along the correct `X-CG-APIKEY` header with every request. You can find this key in one of the json files that is retrieved on page load, or just in your network tab when the browser requests data, I am going to let you look for it.
-> This key hasn't changed since I started this project, so if you are feeling lazy, jsut hardcode it in.
+> This key hasn't changed since I started this project, so if you are feeling lazy, just hardcode it in.
